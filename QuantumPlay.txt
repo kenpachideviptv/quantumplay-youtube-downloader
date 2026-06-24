@@ -1,0 +1,49 @@
+# 🚀 QuantumPlay
+
+🎵 **QuantumPlay** é uma ferramenta moderna e intuitiva para **baixar, converter e organizar conteúdos de áudio e vídeo** com rapidez, segurança e praticidade.
+
+Desenvolvido em **Java**, o aplicativo já inclui automaticamente as principais ferramentas necessárias para o funcionamento, eliminando configurações complicadas e proporcionando uma experiência simples desde a primeira execução.
+
+## ✨ Principais Recursos
+
+🎬 Download de vídeos em alta qualidade.
+
+🎧 Conversão para **MP3**, **WAV** e outros formatos compatíveis.
+
+⚡ Processamento rápido e eficiente.
+
+🛠️ **yt-dlp** e **FFmpeg** integrados automaticamente.
+
+📂 Organização inteligente dos arquivos baixados.
+
+🖥️ Interface moderna, limpa e fácil de usar.
+
+🔄 Preparado para futuras atualizações e novos recursos.
+
+🔒 Funcionamento local, sem necessidade de serviços externos para operar o aplicativo.
+
+## 📦 Compatibilidade
+
+💻 Windows 10 e Windows 11
+
+☕ Java 17 ou superior
+
+🌐 Conexão com a Internet para realizar os downloads
+
+## 🎯 Ideal para
+
+🎵 Baixar músicas.
+
+🎬 Salvar vídeos.
+
+🎙️ Extrair áudio de vídeos.
+
+📚 Criar bibliotecas pessoais de mídia.
+
+⚙️ Converter arquivos para diferentes formatos.
+
+## 💙 QuantumPlay
+
+**Baixe. Converta. Organize.**
+
+Tudo isso em um único aplicativo, com desempenho, simplicidade e uma interface moderna pensada para oferecer a melhor experiência ao usuário.
